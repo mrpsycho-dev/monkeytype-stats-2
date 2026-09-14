@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "generatedBy": "MonkeyHub",
+  "mode": "words",
+  "generatedAt": "2026-09-14T11:54:38.476Z",
+  "results": [
+    {
+      "acc": 100,
+      "charStats": {
+        "correct": 49,
+        "extra": 0,
+        "incorrect": 0,
+        "missed": 0
+      },
+      "consistency": 89.84,
+      "difficulty": "normal",
+      "id": "167a4920",
+      "language": "english",
+      "mode": "words",
+      "mode2": "10",
+      "numbers": false,
+      "punctuation": false,
+      "rawWpm": 118.55,
+      "source": "network",
+      "testDuration": 4.96,
+      "timestamp": 1789386822539,
+      "wpm": 118.55
+    }
+  ]
+}

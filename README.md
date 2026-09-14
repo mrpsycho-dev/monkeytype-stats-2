@@ -1,35 +1,37 @@
 # ⌨️ Muhammad Abdullah's Monkeytype Stats
 
-![tests typed](https://img.shields.io/badge/tests%20typed-0-1B1E27?style=for-the-badge)
+![tests typed](https://img.shields.io/badge/tests%20typed-1-1B1E27?style=for-the-badge) ![best wpm](https://img.shields.io/badge/best%20wpm-118.6-F5C453?style=for-the-badge) ![avg accuracy](https://img.shields.io/badge/avg%20accuracy-100%25-5FD1A4?style=for-the-badge) ![streak](https://img.shields.io/badge/streak-1%20days-EF6F6C?style=for-the-badge)
 
-_Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-14 11:53:03 UTC**._
+_Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-14 11:54:38 UTC**._
 
 ## Overview
 
 | Stat | Value |
 | --- | --- |
-| Tests completed | 0 |
-| Time spent typing | 0s |
-| Average WPM | 0 |
-| Average accuracy | 0% |
-| Average consistency | — |
-| Best single test | — |
-| Highest accuracy | — |
-| Highest consistency | — |
-| Current streak | 0 days |
-| Longest streak | 0 days |
-| First test on record | — |
+| Tests completed | 1 |
+| Time spent typing | 5s |
+| Average WPM | 118.6 |
+| Average accuracy | 100% |
+| Average consistency | 89.8% |
+| Best single test | 118.6 wpm (10 words) |
+| Highest accuracy | 100% |
+| Highest consistency | 89.8% |
+| Current streak | 1 day |
+| Longest streak | 1 day |
+| First test on record | 2026-09-14 |
 
 ## Personal bests
 
-_No tests recorded yet - finish a test on monkeytype.com to get started._
+| Mode | WPM | Raw | Accuracy | Consistency | Date |
+| --- | --- | --- | --- | --- | --- |
+| 10 words | **118.6** | 118.6 | 100% | 89.8% | 2026-09-14 |
 
 ## Activity
 
 ```text
      Sep  Oct   Nov    Dec   Jan   Feb   Mar    Apr   May    Jun   Jul   Aug    Sep 
                                                           
-Mon                                                       
+Mon                                                      ░
                                                           
 Wed                                                       
                                                           
@@ -41,7 +43,9 @@ Less   ░ ▒ ▓ █ More
 
 ## Recent tests
 
-_Nothing yet._
+| When | Mode | WPM | Accuracy | Modifiers |
+| --- | --- | --- | --- | --- |
+| 2026-09-14 11:53 UTC | 10 words | 118.6 | 100% | — |
 
 ---
 

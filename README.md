@@ -1,18 +1,18 @@
 # ⌨️ Muhammad Abdullah's Monkeytype Stats
 
-![tests typed](https://img.shields.io/badge/tests%20typed-2-1B1E27?style=for-the-badge) ![best wpm](https://img.shields.io/badge/best%20wpm-118.6-F5C453?style=for-the-badge) ![avg accuracy](https://img.shields.io/badge/avg%20accuracy-99.1%25-5FD1A4?style=for-the-badge) ![streak](https://img.shields.io/badge/streak-1%20days-EF6F6C?style=for-the-badge)
+![tests typed](https://img.shields.io/badge/tests%20typed-3-1B1E27?style=for-the-badge) ![best wpm](https://img.shields.io/badge/best%20wpm-118.6-F5C453?style=for-the-badge) ![avg accuracy](https://img.shields.io/badge/avg%20accuracy-98.7%25-5FD1A4?style=for-the-badge) ![streak](https://img.shields.io/badge/streak-1%20days-EF6F6C?style=for-the-badge)
 
-_Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-14 17:32:43 UTC**._
+_Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-14 17:33:42 UTC**._
 
 ## Overview
 
 | Stat | Value |
 | --- | --- |
-| Tests completed | 2 |
-| Time spent typing | 12s |
-| Average WPM | 102.4 |
-| Average accuracy | 99.1% |
-| Average consistency | 78.9% |
+| Tests completed | 3 |
+| Time spent typing | 19s |
+| Average WPM | 96.3 |
+| Average accuracy | 98.7% |
+| Average consistency | 76.2% |
 | Best single test | 118.6 wpm (10 words) |
 | Highest accuracy | 100% |
 | Highest consistency | 89.8% |
@@ -31,7 +31,7 @@ _Automatically generated and kept in sync by MonkeyHub - last updated **2026-09-
 ```text
      Sep  Oct   Nov    Dec   Jan   Feb   Mar    Apr   May    Jun   Jul   Aug    Sep 
                                                           
-Mon                                                      ▒
+Mon                                                      ▓
                                                           
 Wed                                                       
                                                           
@@ -45,6 +45,7 @@ Less   ░ ▒ ▓ █ More
 
 | When | Mode | WPM | Accuracy | Modifiers |
 | --- | --- | --- | --- | --- |
+| 2026-09-14 17:33 UTC | 10 words | 84.2 | 98% | — |
 | 2026-09-14 11:55 UTC | 10 words | 86.2 | 98.2% | — |
 | 2026-09-14 11:53 UTC | 10 words | 118.6 | 100% | — |
 

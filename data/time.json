@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "generatedBy": "MonkeyHub",
+  "mode": "time",
+  "generatedAt": "2026-09-14T22:47:42.556Z",
+  "results": [
+    {
+      "acc": 97.62,
+      "charStats": {
+        "correct": 123,
+        "extra": 0,
+        "incorrect": 0,
+        "missed": 0
+      },
+      "consistency": 68.42,
+      "difficulty": "normal",
+      "id": "2cccf994",
+      "language": "english",
+      "mode": "time",
+      "mode2": "15",
+      "numbers": false,
+      "punctuation": false,
+      "rawWpm": 98.14,
+      "source": "network",
+      "testDuration": 15.04,
+      "timestamp": 1789425810386,
+      "wpm": 98.14
+    }
+  ]
+}
